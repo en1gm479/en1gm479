@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en1gm479&label=Profile%20views&color=0e75b6&style=flat" alt="en1gm479" /> </p>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on [Movie House](https://github.com/Himanshi2511/Movie_house)
+- 🔭 I’m currently working on [MUSIXON](https://github.com/Himanshi2511/MUSIXON)
 
 - 🌱 I’m currently learning **ReactJS, GraphQL, DSA.**
 
