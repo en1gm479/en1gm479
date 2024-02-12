@@ -78,9 +78,9 @@
 
 <p>
 <br>	
-<a target="_blank" href="https://codeforces.com/profile/spidy707"><img src="https://cp-logo.vercel.app/codeforces/spidy707?logo=true" alt="Codeforces"></img></a>
+<a target="_blank" href="https://codeforces.com/profile/enigma79"><img src="https://cp-logo.vercel.app/codeforces/enigma79?logo=true" alt="Codeforces"></img></a>
 &emsp;
-<a href='https://www.codechef.com/enigma79' target="_blank"><img alt='CodeChef' src='https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/enigma79&logo=codechef&logoColor=f5f5dc&labelColor=6F6C6C&style=flat&cacheSeconds=86400'/></a>
+<a href='https://www.codechef.com/users/enigma79' target="_blank"><img alt='CodeChef' src='https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/enigma79&logo=codechef&logoColor=f5f5dc&labelColor=6F6C6C&style=flat&cacheSeconds=86400'/></a>
 &emsp;
 <a href="https://leetcode.com/enigma79/"><img src="https://cp-logo.vercel.app/leetcode/enigma79?logo=true" alt="LeetCode" /></a>
 &emsp;
